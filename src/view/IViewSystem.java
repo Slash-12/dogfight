@@ -4,8 +4,7 @@ package view;
 
 interface IViewSystem {
 
-    String displayMessage();
-
+    String displayMessage(String message);
     void closeAll();
 
 }
