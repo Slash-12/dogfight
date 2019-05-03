@@ -1,11 +1,17 @@
 package view;
 
+import jpu2016.dogfight.model.IDogfightModel;
 import jpu2016.dogfight.model.IMobile;
 
 import java.awt.*;
 import java.awt.image.ImageObserver;
 
 public class GraphicsBuilder {
+
+    // Constructor
+    public GraphicsBuilder(IDogfightModel dogfightModel){
+
+    }
 
     // private methods
     private void buildEmptySky(){

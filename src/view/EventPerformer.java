@@ -7,6 +7,11 @@ import java.awt.event.KeyEvent;
 
 public class EventPerformer {
 
+    // constructor
+    public EventPerformer(IOrderPerformer orderPerformer){
+
+    }
+
     // private methods
     private UserOrder keyCodeToUserOrder(int keyCode){
 
