@@ -26,7 +26,7 @@ public class DogfightController {
 
 	}
 
-	private void aunchMissile(int player){
+	private void launchMissile(int player){
 
 	}
 
