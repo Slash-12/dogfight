@@ -10,7 +10,7 @@ public class EventPerformer {
     // private methods
     private UserOrder keyCodeToUserOrder(int keyCode){
 
-        return null; // this probably won't be null
+        return null; // this probably won't be null, this is a placeholder null
     }
 
     // public methods
